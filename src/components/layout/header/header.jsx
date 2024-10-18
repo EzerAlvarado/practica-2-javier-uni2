@@ -18,6 +18,12 @@ function BasicExample() {
             <Link className="custom-link-class" to="/users">
               Users
             </Link>
+            <Link className="custom-link-class" to="/login">
+              Login
+            </Link>
+            <Link className="custom-link-class" to="/register">
+              Register
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
